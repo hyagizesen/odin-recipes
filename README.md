@@ -1,3 +1,2 @@
 # odin-recipes
-OdinProject Recipes
-This project is a beginner level HTML page containing simple elements of HTML.
+This project is a beginner level HTML page containing a main page and three recipe pages built with simple HTML elements.
